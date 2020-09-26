@@ -1,0 +1,1 @@
+ATTRS{idVendor}=="1532", ATTRS{idProduct}=="0520", ENV{PULSE_PROFILE_SET}="razer-kraken-tournament-edition-usb-audio.conf"
